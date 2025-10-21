@@ -31,10 +31,15 @@ Policy Makers and Urban Planners: To observe the growth of short-term rentals in
 
 ## TOOLS
 Python
+
 Jupyter Notebook
+
 Google colab
+
 Matplotlib
+
 Numpy
+
 Seaborn
 
 
